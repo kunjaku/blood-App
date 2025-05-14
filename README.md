@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/kunjaku/Empetz-app.git
+https://github.com/kunjaku/blood-App.git
 ```
 
 **Step 2:**
@@ -47,8 +47,5 @@ flutter run
 
 ### Libraries & Tools Used
   * cupertino_icons
-  * image_picker
-  * shared_preferences
-  * url_launcher
-  * flutter_launcher_icons
-  * change_app_package_name
+  * firebase_core
+  * cloud_firestore
