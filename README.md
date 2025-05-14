@@ -31,7 +31,7 @@ Go to project root and execute the following command in console to get the requi
 flutter run
 ```
 
-## Empetz Features:
+## Blood Donation app Features:
 
 * Splash
 * Login
