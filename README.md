@@ -30,7 +30,8 @@ Go to project root and execute the following command in console to get the requi
 ```
 flutter run
 ```
-![Black and Beige Modern Textured Fitness App Instagram Story](https://github.com/user-attachments/assets/33673f29-ad71-4acc-8ca0-d224327d9fd9)
+![Black and Beige Modern Textured Fitness App Instagram Story](https://github.com/user-attachments/assets/f4f0bad6-86f0-4781-b98b-545c520ecf09)
+
 
 
 ## Blood Donation app Features:
