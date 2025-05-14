@@ -41,12 +41,10 @@ flutter run
 * Home
 * Routing
 * Theme
-* http
 * Database
 * Validation
 * User Notifications
 * Dependency Injection
-* Dark Theme Support (new)
 
 ### Libraries & Tools Used
   * cupertino_icons
